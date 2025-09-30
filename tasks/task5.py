@@ -2,7 +2,7 @@
 
 def solve():
 # Ниже пишите решение задачи
-def solve():
+
     s = input().strip()
     print(f"{s} - Сказала Гермиона!")
 

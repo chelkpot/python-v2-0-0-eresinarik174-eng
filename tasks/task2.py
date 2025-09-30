@@ -2,7 +2,7 @@
 
 def solve():
 # Ниже пишите решение задачи
-def solve():
+
     # Читаем входные данные
     x, y, z = map(int, input().split())
     

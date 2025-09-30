@@ -4,7 +4,6 @@ def solve():
 # Ниже пишите решение задачи
     # tasks/task4.py
 
-def solve():
     # Считываем три фразы с клавиатуры
     a = input().strip()
     b = input().strip()
