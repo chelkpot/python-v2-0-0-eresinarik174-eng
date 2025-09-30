@@ -2,7 +2,10 @@
 
 def solve():
 # Ниже пишите решение задачи
-    
+    def solve():
+    a, b = map(int, input().split())
+    total = a + b - 1
+    print(total - a, total - b)
 
 
 # Код ниже не трогать! он нужен для тестов
